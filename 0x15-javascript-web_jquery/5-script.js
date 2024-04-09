@@ -1,5 +1,5 @@
-$(document).ready(function () {
-	$("DIV#add_item").click(function () {
-		$("<li>").text("Item").appendTo("ul.my_list");
-	});
+// JavaScript script that adds a <li> element to a list
+
+$('#add_item').click(function () {
+    $('ul').append('<li>Item</li>');
 });

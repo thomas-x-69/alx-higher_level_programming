@@ -1,1 +1,1 @@
-# Solutions to tasks on JavaScript - Web jQuery
+Project JavaScript Web JQuery

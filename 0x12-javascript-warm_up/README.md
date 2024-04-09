@@ -1,1 +1,1 @@
-# Solution to tasks on JavaScript - Warm up
+Warming up for JavaScript projects
